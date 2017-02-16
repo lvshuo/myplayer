@@ -15,7 +15,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="ExoPlayer"
         android:supportsRtl="true"
-
+        android:largeHeap="true"
         android:name=".DemoApplication">
 
         <activity android:name=".MainActivity">
